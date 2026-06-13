@@ -1,0 +1,13 @@
+{
+  "telegram": {
+    "channels": ["itpark_jobs", "example_channel"]
+  },
+  "hh": {
+    "area": "97",
+    "text": "developer",
+    "perPage": 100
+  },
+  "rss": {
+    "feeds": ["https://example.com/jobs.rss"]
+  }
+}
